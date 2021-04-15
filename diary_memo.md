@@ -5,11 +5,8 @@
 ## 2021/4/16
 - 今日は自分のブランチをGithub上で作成。そして自分のPCにcloneした。
 - 「Python実践データ分析100本ノック」に従ってデータ分析を学んでいくが、
-扱うデータを箇所ページから自分のPCへダウンロードした。
+扱うデータを該当URLから自分のPCへダウンロードした。
 - githubにvisual studio codeからコミット＆プッシュしてみた。
 しかし、誤ってmainにプッシュしてしまったのですぐに削除。
 自分のブランチichigoにプッシュしなおした。
-
-参考にしたURLは以下。（なお、Gitは以前インストール済み）
-
-https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be
+参考にしたURLはhttps://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be　（なお、Gitは以前インストール済み）
